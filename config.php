@@ -1,0 +1,5 @@
+<?php
+
+$link = "http://dutchybig.ovh/faucet.php?adcopy_response=learn,succeed.&adcopy_challenge=2@ITuCcFbaFfqY2Oqvsjo4f.xyydez8osO@WrHDadwwNrUENU8bgrS.g39APTC4lJjoIF4wcdS4zdjExKrA9wTeCqZpoSkZwHJRJX-3iX9LF93aSBmMy3Q3Sjz5OF.EsBw8JGgAH0Kc8bwij3h3BIWTWLqX2cHkpaBL718Auvvmc3vNjHtUCyJ0u8i7jbxwP565GQ4bNl2ylDwK4njGEvmNb0iA3uxPG.RSa6hd0E7GAOR2bqW-m75nv7icwuox6s1CS6Fdnsc1TUWgl7wWqw5KKVDV3HD7Gvwx6v.84hhArSo3IT36Aemi-.8cYNcg1PaRJkhFXIK0uoA&address=EC-UserId-67480&currency=LTC&key=d305bd1f0adf08cef49a54262d22a343"
+
+?>
